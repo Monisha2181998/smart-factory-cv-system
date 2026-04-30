@@ -12,14 +12,12 @@ results/
 # Videos
 *.mp4
 
-# Images (dataset)
-*.jpg
-*.jpeg
-*.png
-
 # Logs
 *.log
 
 # System files
 .DS_Store
 Thumbs.db
+
+data/dataset/
+datasets/
