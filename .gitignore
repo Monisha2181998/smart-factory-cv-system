@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO / training outputs
+runs/
+results/
+
+# Models (very large files)
+*.pt
+
+# Videos
+*.mp4
+
+# Images (dataset)
+*.jpg
+*.jpeg
+*.png
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
